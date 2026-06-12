@@ -1,0 +1,2 @@
+Um repositório para armazenar programas web sem uso de IA no código, provando que é possivel a criação sem a sua interferencia, se tornando até melhor que com o uso
+<img src="./ANTI-IA.jpeg" alt="ANTI IA"/>

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "American";
+  src: url("./assets/fonts/American Captain.ttf") format("truetype");
+}
+
+@theme{
+  --font-American: "American", sans serif;
+}
+
+body, html, #root{
+    height: 300dvh;
+    padding: 0;
+    margin: 0;
+}
